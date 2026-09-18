@@ -35,5 +35,4 @@ The Excel dashboard provides a visual overview of channel performance and highli
 
 The complete Excel workbook is available in this repository:
 
-
-YouTube_Channel_Analytics_Dashboard.xlsx
+[Download the Excel Dashboard](YouTube_Channel_Analytics_Dashboard.xlsx)
