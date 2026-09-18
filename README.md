@@ -29,6 +29,8 @@ This project analyzes the performance of 50+ YouTube videos using real channel a
 
 The Excel dashboard provides a visual overview of channel performance and highlights top-performing content and engagement trends.
 
+![YouTube Channel Analytics Dashboard](Annotation%202026-09-18%20113904.png)
+
 ## File
 
 The complete Excel workbook is available in this repository:
