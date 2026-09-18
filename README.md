@@ -33,6 +33,5 @@ The Excel dashboard provides a visual overview of channel performance and highli
 
 The complete Excel workbook is available in this repository:
 
-**Sadad project.xlsx**
 
 **Sadad project.xlsx**
